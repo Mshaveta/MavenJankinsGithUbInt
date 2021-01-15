@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="11065" started-at="2021-01-15T23:17:12 IST" finished-at="2021-01-15T23:17:23 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="11065" started-at="2021-01-15T23:17:12 IST" finished-at="2021-01-15T23:17:23 IST">
+      <class name="MavenScript">
+        <test-method status="PASS" signature="login()[pri:1, instance:MavenScript@a67c67e]" name="login" duration-ms="9849" started-at="2021-01-15T23:17:12 IST" finished-at="2021-01-15T23:17:22 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="logOut()[pri:2, instance:MavenScript@a67c67e]" name="logOut" duration-ms="1194" started-at="2021-01-15T23:17:22 IST" finished-at="2021-01-15T23:17:23 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logOut -->
+      </class> <!-- MavenScript -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
