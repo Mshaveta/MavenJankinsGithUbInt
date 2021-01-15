@@ -5,6 +5,8 @@
     <classes>
       <class name="MavenScript"/>
        <class name="MavenCode"/>
+       <class name="MavenCode2"/>
+       
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
